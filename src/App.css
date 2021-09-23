@@ -1,0 +1,47 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.app-header{
+    /* margin-top: 10%; */
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    
+}
+
+.app-body {
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 450px;
+}
+.root{
+ min-height: 100vh;
+    background-color: azure;
+    
+}
+
+.title{
+    flex-grow: 1;
+}
+.appbar {
+    /* background-color: #2A2B2E; */
+    background-color:'#C6D8FF'
+}
+
+.footer{
+    color: azure;
+  background-color: #0d47a1;
+
+  ;
+  height: 250px;
+  padding: 20px;
+  
+  
+}
+.footer1{
+padding: 20px;
+}
